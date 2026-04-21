@@ -1,0 +1,5 @@
+Loyalty Program
+
+Customers are grouped into Standard, Growth, and Premium tiers based on annual revenue and purchase consistency.
+Premium customers receive priority support and proactive account reviews.
+Growth customers should be evaluated for upsell campaigns when their recent monthly purchase volume is rising.

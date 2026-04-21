@@ -1,0 +1,5 @@
+Support Escalation Guide
+
+Any customer with lifetime revenue above $50,000 and repeated issues should be escalated to customer success.
+Refund disputes above $2,500 should be reviewed jointly by finance and support.
+If multiple customers from the same country report delays, the regional operations manager should be notified.

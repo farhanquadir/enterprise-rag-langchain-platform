@@ -1,0 +1,10 @@
+duckdb==1.4.1
+pandas==2.2.2
+numpy==1.26.4
+pypdf==4.2.0
+streamlit==1.37.1
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-huggingface==0.1.2
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
